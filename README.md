@@ -1,5 +1,6 @@
 # newCoding
 <br>
-new repository 
+new repository .
+<br>
 Add one aditional command
 
